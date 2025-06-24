@@ -40,7 +40,7 @@ window.onscroll = () => {
 
 // ----------------------------------- Typed.js Initialization -----------------------------------
 const typed = new Typed('.multiple-text', {
-    strings: ['Programmer', 'Student', 'Youtuber'], // Array of strings to type
+    strings: ['Programmer', 'Student'], // Array of strings to type
     typeSpeed: 100, // Speed of typing in milliseconds
     backSpeed: 100, // Speed of deleting in milliseconds
     backDelay: 1000, // Delay before typing starts again in milliseconds
